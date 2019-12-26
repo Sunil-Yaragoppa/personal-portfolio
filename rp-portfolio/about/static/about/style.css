@@ -1,0 +1,24 @@
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size: 100%;
+    
+}
+
+
+.fullscreenDiv{
+    font-family: 'Lobster', cursive;
+
+}
+
+
+.center {
+	font-size: 3em;
+	color: #e6ffff;
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    top: 50%;
+    left: 50%;
+    margin-left: -50px; /* margin is -0.5 * dimension */
+    margin-top: -25px; 
+}​
